@@ -1,4 +1,4 @@
-# Backstepping-controller-for-quadcopter-
+# Backstepping-controller-for-quadcopter
 **Backstepping control algorithm and its implementation on quadcopter model.**  
 This was used alongside other controllers to gain results published in [this paper](https://doi.org/10.26160/2474-5901-2024-43-42-54).  
    
