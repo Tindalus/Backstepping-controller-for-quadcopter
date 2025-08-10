@@ -1,5 +1,5 @@
 # Backstepping-controller-for-quadcopter-
-**Backstepping control algorithm and its implementation on quadcopter model**  
+**Backstepping control algorithm and its implementation on quadcopter model.**  
 This was used alongside other controllers to gain results published in [this paper](https://doi.org/10.26160/2474-5901-2024-43-42-54).  
    
 `BS_Controller.py` contains control law function that generates input signal for the model in the closed loop system.  
